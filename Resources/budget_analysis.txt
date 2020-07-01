@@ -1,0 +1,7 @@
+-------------- Financial Analysis --------------
+Total Months:                                 86
+Net Profits:                          38,382,578
+Avg Change:                             7,803.48
+Max Increase:       Feb-2012           1,926,159
+Max Decrease:       Sep-2013          -2,196,167
+------------------------------------------------
