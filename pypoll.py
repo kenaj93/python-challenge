@@ -27,3 +27,4 @@ with open(csvpath) as csvfile:
         votes = votes + 1
         total_candidates = row["Candidate"]        
 
+#incomplete needs further analysis
